@@ -2,7 +2,6 @@
 {"dg-publish":true,"permalink":"/08-site/golovna/","tags":["gardenEntry"],"dg-note-properties":{}}
 ---
 
-
 # Головна сторінка
 
 Вітаю на сайті! Це мій кабінет проєктів.
