@@ -12,3 +12,5 @@ https://my-projects-portal.vercel.app/08-site/sajt-z-proektami/sablon-2/
 
 https://my-projects-portal.vercel.app/08-site/sajt-z-proektami/shablon-ob-yekta-1/
 
+https://my-projects-portal.vercel.app/08-site/sajt-z-proektami/mij-shablonchik/
+
