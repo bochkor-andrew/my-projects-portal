@@ -14,3 +14,6 @@ https://my-projects-portal.vercel.app/08-site/sajt-z-proektami/shablon-ob-yekta-
 
 https://my-projects-portal.vercel.app/08-site/sajt-z-proektami/mij-shablonchik/
 
+https://my-projects-portal.vercel.app/08-site/sajt-z-proektami/dizajn-proba/
+
+
