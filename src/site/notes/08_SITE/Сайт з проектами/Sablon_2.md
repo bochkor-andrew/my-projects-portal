@@ -2,7 +2,9 @@
 {"dg-publish":true,"permalink":"/08-site/sajt-z-proektami/sablon-2/","dg-note-properties":{}}
 ---
 
-- [ ]  Архів
+
+https://drive.google.com/drive/folders/10L9xigM_NunjpXK_mMcz2LRjJhZx-IrU?usp=drive_link
+
 
 ---------------------------------
 ## Капітальний ремонт 
@@ -27,6 +29,10 @@
 ### Щоденник
 
 ==27,08,2026==
+
+
+https://drive.google.com/file/d/1EU1X4oASKh-hPCGHmc0LvA0nP8TXcRgm/view?usp=drive_link
+
 
 
 
