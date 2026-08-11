@@ -4,16 +4,17 @@
 
 # Головна сторінка
 
-Вітаю на сайті! Це мій кабінет проєктів.
+Вітаю на сайті! 
+
+![](file:///C:/Users/bochk/AppData/Local/Temp/msohtmlclip1/01/clip_image002.jpg)
+
+**Бочкор Андрій Іванович**
+**Адреса: 90400, Закарпатська обл., м. Хуст
+
+тел.:   067 312 00 70
+
+_email_:  _bochkora@gmail.com_
 
 
-
-https://my-projects-portal.vercel.app/08-site/sajt-z-proektami/sablon-2/
-
-https://my-projects-portal.vercel.app/08-site/sajt-z-proektami/shablon-ob-yekta-1/
-
-https://my-projects-portal.vercel.app/08-site/sajt-z-proektami/mij-shablonchik/
-
-https://my-projects-portal.vercel.app/08-site/sajt-z-proektami/dizajn-proba/
 
 
